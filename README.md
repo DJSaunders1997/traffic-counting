@@ -1,5 +1,6 @@
 # traffic-counting
 Script to speed up traffic counting by 100%
+Uses the CLI tool `dvr-scan`
 
 809517t
 05-14
