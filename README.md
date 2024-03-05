@@ -5,18 +5,19 @@ This repository contains a script that can significantly speed up the process of
 ## Results
 
 
-| Project ID | Before Duration | After Duration | Time Saved (min) | Efficiency Increase (%) |
-|------------|-----------------|----------------|------------------|-------------------------|
-| 809517t    | 5:00            | 1:15           | 225              | 75.0                    |
-| 807190b    | 5:45            | 1:03           | 282              | 81.9                    |
-| 804202b    | 4:14            | 0:55           | 199              | 79.2                    |
-| 800710r    | 6:05            | 0:44           | 321              | 88.1                    |
-| 801282r    | 5:56            | 1:36           | 260              | 73.2                    |
-| 801929p    | 5:54            | 0:28           | 326              | 91.8                    |
+| Project ID | Before Duration | After Duration | Time Saved (min) | Speed Increase |
+|------------|-----------------|----------------|------------------|-----------------------|
+| 809517t    | 5:00            | 1:15           | 225              | 4.0x                  |
+| 807190b    | 5:45            | 1:03           | 282              | 5.48x                 |
+| 804202b    | 4:14            | 0:55           | 199              | 4.62x                 |
+| 800710r    | 6:05            | 0:44           | 321              | 8.30x                 |
+| 801282r    | 5:56            | 1:36           | 260              | 3.71x                 |
+| 801929p    | 5:54            | 0:28           | 326              | 12.64x                |
+
 
 **Average Time Saved:** Approximately 269 minutes (4 hours and 29 minutes).
 
-**Average Efficiency Increase:** Approximately 81.4%.
+**Average Speed Increase:** Approximately 6.4x
 
 ## How It Works
 
